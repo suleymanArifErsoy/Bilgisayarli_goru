@@ -8,4 +8,4 @@ model = KeyedVectors.load_word2vec_format('trmodel',binary=True) # Önceden derl
 
 benzerlik = model.similarity("çay","kahve")
 print(benzerlik) # Çalışma sırasında load_word2vec_format ile ilgili bir hata geliyor ona bi bak sonradan !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
+print()
