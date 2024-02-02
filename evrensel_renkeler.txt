@@ -1,0 +1,181 @@
+Kırık Beyaz / Broken White-242 242 242
+Hayalet Beyaz / Ghost White -248 248 255
+Beyaz Duman / White Smoke-245 245 245
+Gainsboro Beyazı / Gainsboro-220 220 220
+Beyaz / White-255 255 255
+Siyah / Black-0 0 0
+Orta Gri / Medium Gray-128 128 128	
+Orta Gri 2 / Medium Gray 2-144 143 143
+Koyu Gri / Dark Gray-102 102 102
+Koyu Gri 2 / Dark Gray 2-95 95 95
+Bulanık Gri / Dim Gray-105 105 105
+Açık Gri / Light Gray-221 221 221
+Açık Gri 2 / Light Gray 2-211 211 211
+Gri / Gray-190 190 190
+Gri 11 / Gray11-28 28 28
+Gri 21 / Gray21-54 54 54
+Gri 31 / Gray31-79 79 79
+Gri 41 / Gray41-105 105 105
+Gri 51 / Gray51-130 130 130
+Gri 61 / Gray61-156 156 156
+Gri 71 / Gray71-181 181 181
+Gri 81 / Gray81-207 207 207
+Gri 91 / Gray91-232 232 232
+Koyu Gri / Dark Gray-169 169 169
+Açık Barut Grisi / Light Slate Gray-119 136 153
+Barut Grisi / Slate Gray-112 128 144
+Barut Grisi 1 / SlateGray1-198 226 255
+Barut Grisi 2 / SlateGray2-185 211 238
+Barut Grisi 3 / SlateGray3-159 182 205
+Barut Grisi 4 / SlateGray4-108 123 139
+Koyu Barut Grisi / Dark Slate Gray-47 79 79
+Koyu Barut Grisi 1 / DarkSlateGray1-151 255 255
+Koyu Barut Grisi 2 / DarkSlateGray2-141 238 238
+Koyu Barut Grisi 3 / DarkSlateGray3-121 205 205
+Koyu Barut Grisi 4 / DarkSlateGray4-82 139 139
+Grimsi Yeşil (Kül Yeşili) / Grayish Green-74 128 77
+Grayish Spring Bud-111 128 74
+Grayish Magenta-139 101 139
+Pale Golden Rod-238 232 170
+Floral White-255 250 240
+Light Golden Rod Yellow-250 250 210
+Saddle Brown-139 69 19
+Sienna-160 82 45
+Old Lace-253 245 230
+Linen-250 240 230
+Papaya Whip-255 239 213
+Blanched Almond-255 235 205
+Moccasin-255 228 181
+Peru-205 133 63
+Beige-245 245 220
+Sandy Brown-244 164 96
+Snow 1-255 250 250
+Snow2-238 233 233
+Snow3-205 201 201
+Snow4-139 137 137
+Seashell 1-255 245 238
+Seashell2-238 229 222
+Seashell3-205 197 191	# cdc5bf
+Seashell4-139 134 130	# 8b8682
+Antique White-250 235 215	# faebd7
+AntiqueWhite1-255 239 219	# ffefdb
+AntiqueWhite2-238 223 204	# eedfcc
+AntiqueWhite3-205 192 176	# cdc0b0
+AntiqueWhite4-139 131 120	# 8b8378
+Bisque 1-255 228 196	# ffe4c4
+Bisque2-238 213 183	# eed5b7
+Bisque3-205 183 158	# cdb79e
+Bisque4-139 125 107	# 8b7d6b
+Peach Puff 1-255 218 185	# ffdab9
+PeachPuff2-238 203 173	# eecbad
+PeachPuff3-205 175 149	# cdaf95
+PeachPuff4-139 119 101	# 8b7765
+Navajo White1-255 222 173	# ffdead
+NavajoWhite2-238 207 161	# eecfa1
+NavajoWhite3-205 179 139	# cdb38b
+NavajoWhite4-139 121 94	# 8b795e
+Lemon Chiffon 1-255 250 205	# fffacd
+LemonChiffon2-238 233 191	# eee9bf
+LemonChiffon3-205 201 165	# cdc9a5
+LemonChiffon4-139 137 112	# 8b8970
+Cornsilk 1-255 248 220	# fff8dc
+Cornsilk2-238 232 205	# eee8cd
+Cornsilk3-205 200 177	# cdc8b1
+Cornsilk4-139 136 120	# 8b8878
+Ivory 1-255 255 240	# fffff0
+Ivory2-238 238 224	# eeeee0
+Ivory3-205 205 193	# cdcdc1
+Ivory4-139 139 131	# 8b8b83
+Mint Cream-245 255 250	# f5fffa
+Honeydew1-240 255 240	# f0fff0
+Honeydew2-224 238 224	# e0eee0
+Honeydew3-193 205 193	# c1cdc1
+Honeydew4-131 139 131	# 838b83
+Lavender Blush 1-255 240 245	# fff0f5
+LavenderBlush2-238 224 229	# eee0e5
+LavenderBlush3-205 193 197	# cdc1c5
+LavenderBlush4-139 131 134	# 8b8386
+Lavender-230 230 250	# e6e6fa
+Misty Rose 1-255 228 225	# ffe4e1
+MistyRose2-238 213 210	# eed5d2
+MistyRose3-205 183 181	# cdb7b5
+MistyRose4-139 125 123	# 8b7d7b
+Azure 1-240 255 255	# f0ffff
+Azure2-224 238 238	# e0eeee
+Azure3-193 205 205	# c1cdcd
+Azure4-131 139 139	# 838b8b
+Alice Blue-240 248 255	# f0f8ff
+Light Slate Blue-132 112 255	# 8470ff
+Medium Slate Blue-123 104 238	# 7b68ee
+SlateBlue-106 90 205	# 6a5acd
+SlateBlue1-131 111 255	# 836fff
+SlateBlue2-122 103 238	# 7a67ee
+SlateBlue3-105 89 205	# 6959cd
+SlateBlue4-71 60 139	# 473c8b
+Dark Slate Blue-72 61 139	# 483d8b
+Royal Blue-65 105 225	# 4169e1
+RoyalBlue1-72 118 255	# 4876ff
+RoyalBlue2-67 110 238	# 436eee
+RoyalBlue3-58 95 205	# 3a5fcd
+RoyalBlue4-39 64 139	# 27408b
+Blue 1-0 0 255	# 0000ff
+Blue2-0 0 238	# 0000ee
+Dark Blue-0 0 139	# 00008b
+Dark Strong Blue-28 15 69	# 1c0f45
+Navy Blue-0 0 128	# 000080
+Midnight Blue-25 25 112	# 191970
+Cornflower Blue-100 149 237	# 6495ed
+Medium Blue-0 0 205	# 0000cd
+Powder Blue-176 224 230	# b0e0e6
+Moderate Cerulean-8 126 176	# 087EB0
+Dodger Blue 1-30 144 255	# 1e90ff
+DodgerBlue2-28 134 238	# 1c86ee
+DodgerBlue3-24 116 205	# 1874cd
+DodgerBlue4-16 78 139	# 104e8b
+Steel Blue-70 130 180	# 4682b4
+SteelBlue1-99 184 255	# 63b8ff
+SteelBlue2-92 172 238	# 5cacee
+SteelBlue3-79 148 205	# 4f94cd
+SteelBlue4-54 100 139	# 36648b
+Deep Sky Blue 1-0 191 255	# 00bfff
+DeepSkyBlue-0 178 238	# 00b2ee
+DeepSkyBlue3-0 154 205	# 009acd
+DeepSkyBlue4-0 104 139	# 00688b
+Sky Blue-135 206 235 # 87ceeb
+SkyBlue1-135 206 255	# 87ceff
+SkyBlue2-126 192 238	# 7ec0ee
+SkyBlue3-108 166 205	# 6ca6cd
+SkyBlue4-74 112 139	# 4a708b
+Light Sky Blue-135 206 250	# 87cefa
+LightSkyBlue1-176 226 255	# b0e2ff
+LightSkyBlue2-164 211 238	# a4d3ee
+LightSkyBlue3-141 182 205	# 8db6cd
+LightSkyBlue4-96 123 139	# 607b8b
+Light Steel Blue-176 196 222	# b0c4de
+LightSteelBlue1-202 225 255	# cae1ff
+LightSteelBlue2-188 210 238	# bcd2ee
+LightSteelBlue3-162 181 205	# a2b5cd
+LightSteelBlue4-110 123 139	# 6e7b8b
+Light Blue-173 216 230	# add8e6
+LightBlue1-191 239 255	# bfefff
+LightBlue2-178 223 238	# b2dfee
+LightBlue3-154 192 205	# 9ac0cd
+LightBlue4-104 131 139
+Vivid Cyan-27 139 180
+Light Cyan 1-224 255 255
+LightCyan2-209 238 238
+LightCyan3-180 205 205
+LightCyan4-122 139 139
+Cadet Blue-95 158 160
+CadetBlue1-152 245 255
+CadetBlue2-142 229 238
+CadetBlue3-122 197 205
+CadetBlue4-83 134 139
+Pale Turquoise-175 238 238
+PaleTurquoise1-187 255 255
+PaleTurquoise2-174 238 238
+PaleTurquoise3-150 205 205
+PaleTurquoise4-102 139 139
+Medium Turquoise-72 209 204
+Dark Turquoise-0 206 209
+Turquoise-64 224 208

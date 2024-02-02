@@ -1,0 +1,182 @@
+Kýrýk Beyaz / Broken White -> 242 242
+Hayalet Beyaz / Ghost White  -> 248 248
+Beyaz Duman / White Smoke -> 245 245
+Gainsboro Beyazý / Gainsboro -> 220 220
+Beyaz / White -> 255 255
+Siyah / Black -> 0 0
+Orta Gri / Medium Gray -> 128 128
+Orta Gri 2 / Medium Gray 2 -> 144 143
+Koyu Gri / Dark Gray -> 102 102
+Koyu Gri 2 / Dark Gray 2 -> 95 95
+Bulanýk Gri / Dim Gray -> 105 105
+Açýk Gri / Light Gray -> 221 221
+Açýk Gri 2 / Light Gray 2 -> 211 211
+Gri / Gray -> 190 190
+Gri 11 / Gray11 -> 28 28
+Gri 21 / Gray21 -> 54 54
+Gri 31 / Gray31 -> 79 79
+Gri 41 / Gray41 -> 105 105
+Gri 51 / Gray51 -> 130 130
+Gri 61 / Gray61 -> 156 156
+Gri 71 / Gray71 -> 181 181
+Gri 81 / Gray81 -> 207 207
+Gri 91 / Gray91 -> 232 232
+Koyu Gri / Dark Gray -> 169 169
+Açýk Barut Grisi / Light Slate Gray -> 119 136
+Barut Grisi / Slate Gray -> 112 128
+Barut Grisi 1 / SlateGray1 -> 198 226
+Barut Grisi 2 / SlateGray2 -> 185 211
+Barut Grisi 3 / SlateGray3 -> 159 182
+Barut Grisi 4 / SlateGray4 -> 108 123
+Koyu Barut Grisi / Dark Slate Gray -> 47 79
+Koyu Barut Grisi 1 / DarkSlateGray1 -> 151 255
+Koyu Barut Grisi 2 / DarkSlateGray2 -> 141 238
+Koyu Barut Grisi 3 / DarkSlateGray3 -> 121 205
+Koyu Barut Grisi 4 / DarkSlateGray4 -> 82 139
+Grimsi Yeþil (Kül Yeþili) / Grayish Green -> 74 128
+Grayish Spring Bud -> 111 128
+Grayish Magenta -> 139 101
+Pale Golden Rod -> 238 232
+Floral White -> 255 250
+Light Golden Rod Yellow -> 250 250
+Saddle Brown -> 139 69
+Sienna -> 160 82
+Old Lace -> 253 245
+Linen -> 250 240
+Papaya Whip -> 255 239
+Blanched Almond -> 255 235
+Moccasin -> 255 228
+Peru -> 205 133
+Beige -> 245 245
+Sandy Brown -> 244 164
+Snow 1 -> 255 250
+Snow2 -> 238 233
+Snow3 -> 205 201
+Snow4 -> 139 137
+Seashell 1 -> 255 245
+Seashell2 -> 238 229
+Seashell3 -> 205 197
+Seashell4 -> 139 134
+Antique White -> 250 235
+AntiqueWhite1 -> 255 239
+AntiqueWhite2 -> 238 223
+AntiqueWhite3 -> 205 192
+AntiqueWhite4 -> 139 131
+Bisque 1 -> 255 228
+Bisque2 -> 238 213
+Bisque3 -> 205 183
+Bisque4 -> 139 125
+Peach Puff 1 -> 255 218
+PeachPuff2 -> 238 203
+PeachPuff3 -> 205 175
+PeachPuff4 -> 139 119
+Navajo White1 -> 255 222
+NavajoWhite2 -> 238 207
+NavajoWhite3 -> 205 179
+NavajoWhite4 -> 139 121
+Lemon Chiffon 1 -> 255 250
+LemonChiffon2 -> 238 233
+LemonChiffon3 -> 205 201
+LemonChiffon4 -> 139 137
+Cornsilk 1 -> 255 248
+Cornsilk2 -> 238 232
+Cornsilk3 -> 205 200
+Cornsilk4 -> 139 136
+Ivory 1 -> 255 255
+Ivory2 -> 238 238
+Ivory3 -> 205 205
+Ivory4 -> 139 139
+Mint Cream -> 245 255
+Honeydew1 -> 240 255
+Honeydew2 -> 224 238
+Honeydew3 -> 193 205
+Honeydew4 -> 131 139
+Lavender Blush 1 -> 255 240
+LavenderBlush2 -> 238 224
+LavenderBlush3 -> 205 193
+LavenderBlush4 -> 139 131
+Lavender -> 230 230
+Misty Rose 1 -> 255 228
+MistyRose2 -> 238 213
+MistyRose3 -> 205 183
+MistyRose4 -> 139 125
+Azure 1 -> 240 255
+Azure2 -> 224 238
+Azure3 -> 193 205
+Azure4 -> 131 139
+Alice Blue -> 240 248
+Light Slate Blue -> 132 112
+Medium Slate Blue -> 123 104
+SlateBlue -> 106 90
+SlateBlue1 -> 131 111
+SlateBlue2 -> 122 103
+SlateBlue3 -> 105 89
+SlateBlue4 -> 71 60
+Dark Slate Blue -> 72 61
+Royal Blue -> 65 105
+RoyalBlue1 -> 72 118
+RoyalBlue2 -> 67 110
+RoyalBlue3 -> 58 95
+RoyalBlue4 -> 39 64
+Blue 1 -> 0 0
+Blue2 -> 0 0
+Dark Blue -> 0 0
+Dark Strong Blue -> 28 15
+Navy Blue -> 0 0
+Midnight Blue -> 25 25
+Cornflower Blue -> 100 149
+Medium Blue -> 0 0
+Powder Blue -> 176 224
+Moderate Cerulean -> 8 126
+Dodger Blue 1 -> 30 144
+DodgerBlue2 -> 28 134
+DodgerBlue3 -> 24 116
+DodgerBlue4 -> 16 78
+Steel Blue -> 70 130
+SteelBlue1 -> 99 184
+SteelBlue2 -> 92 172
+SteelBlue3 -> 79 148
+SteelBlue4 -> 54 100
+Deep Sky Blue 1 -> 0 191
+DeepSkyBlue -> 0 178
+DeepSkyBlue3 -> 0 154
+DeepSkyBlue4 -> 0 104
+Sky Blue -> 135 206
+SkyBlue1 -> 135 206
+SkyBlue2 -> 126 192
+SkyBlue3 -> 108 166
+SkyBlue4 -> 74 112
+Light Sky Blue -> 135 206
+LightSkyBlue1 -> 176 226
+LightSkyBlue2 -> 164 211
+LightSkyBlue3 -> 141 182
+LightSkyBlue4 -> 96 123
+Light Steel Blue -> 176 196
+LightSteelBlue1 -> 202 225
+LightSteelBlue2 -> 188 210
+LightSteelBlue3 -> 162 181
+LightSteelBlue4 -> 110 123
+Light Blue -> 173 216
+LightBlue1 -> 191 239
+LightBlue2 -> 178 223
+LightBlue3 -> 154 192
+LightBlue4 -> 104 131
+Vivid Cyan -> 27 139
+Light Cyan 1 -> 224 255
+LightCyan2 -> 209 238
+LightCyan3 -> 180 205
+LightCyan4 -> 122 139
+Cadet Blue -> 95 158
+CadetBlue1 -> 152 245
+CadetBlue2 -> 142 229
+CadetBlue3 -> 122 197
+CadetBlue4 -> 83 134
+Pale Turquoise -> 175 238
+PaleTurquoise1 -> 187 255
+PaleTurquoise2 -> 174 238
+PaleTurquoise3 -> 150 205
+PaleTurquoise4 -> 102 139
+Medium Turquoise -> 72 209
+Dark Turquoise -> 0 206
+Turquoise -> 64 224
+ -> 
